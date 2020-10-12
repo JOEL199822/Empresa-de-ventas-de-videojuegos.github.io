@@ -6,8 +6,9 @@ theme: jekyll-theme-leaf
 permalink: :slug
 
 social:
-  twitter: _SupunKavinda
-  github: SupunKavinda
+  gmail: dereck20millamiranda@gmail.com
+  twitter:
+  github: Dereck-20miranda
 
 plugins:
  - jekyll-feed
