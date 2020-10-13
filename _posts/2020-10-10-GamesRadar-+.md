@@ -7,13 +7,13 @@ La página web GamesRadar está dedicada a informar sobre las ultimas noticias d
 
 ![GameRadar]({{ site.baseurl }}/images/GameRadar.png)
 
-##Ofertas de GamesRadar
+## Ofertas de GamesRadar
 
 En la página tiene la capacidad de anunciar las últimas ofertas que tiene Amazon en: Estados Unidos, Reino Unido, Canadá y Australia. Mencionan diversos accesorios, consolas, juegos, etc., de diversas clases de compañías populares en la actualidad. 
 
 ![Ofertas de GameRadar]({{ site.baseurl }}/images/Ofertas de GameRadar.png)
 
-##Datos de la pagina:
+## Datos de la pagina:
 
 Dirección de la página web: https://www.gamesradar.com/uk/
 
