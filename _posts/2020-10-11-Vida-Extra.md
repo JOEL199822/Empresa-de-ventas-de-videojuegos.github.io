@@ -3,9 +3,13 @@ layout: post
 title: Vida Extra
 ---
 
-La pagina web llamada Vida Extra esta exclusivamente enfoca en comunicar las ultimas noticias que comunican las empresas: Sony, Microsoft y Nintendo. Juento con una listra de trucos y guias bien detalladas en diversas secciones.
+La pagina web llamada Vida Extra esta exclusivamente enfoca en comunicar las ultimas noticias de las empresas populares: Sony, Microsoft y Nintendo. Juento con una listra de trucos y guias bien detalladas en diversas secciones.
+
+![Vida Extra]({{ site.baseurl }}/images/Vida Extra.png)
 
 La pagina contiene una lista bien ordenada y simple de usar para todos, dividida en secciones de cada tipo de consola que desee revisar.
+
+![Menu de LevelUp]({{ site.baseurl }}/images/Menu de LevelUp.png)
 
 Dirección de la página web: https://www.vidaextra.com/categoria/analisis
 
