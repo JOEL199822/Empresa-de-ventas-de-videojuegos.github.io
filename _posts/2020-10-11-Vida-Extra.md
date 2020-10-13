@@ -15,7 +15,7 @@ La pagina contiene una lista bien ordenada y simple de usar para todos, dividida
 
 ## Datos de la pagina:
 
-Dirección de la página web: [https://www.vidaextra.com/categoria/analisis]
+Dirección de la página web: https://www.vidaextra.com/categoria/analisis
 
 Dirección de su página de Facebook: https://www.facebook.com/VidaExtra/
 
