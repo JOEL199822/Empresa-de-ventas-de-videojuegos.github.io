@@ -7,4 +7,4 @@ En la decada de los ochenta Nintendo tenia competencia en el mercado con una emp
 
 ![NES]({{ site.baseurl }}/images/NES.png)
 
-Fue creado por Masayuki UemuraSalio en Japon en 1983 con cel nombre de Family Computer (Famicom) y en Estados Unidos en 1985 con el nombre de Nintendo Entertainment System. Considerado como una de las consolas mas vendidas alrededor del mundo y que contribuyó a revitalizar de forma significativa la industria estadounidense de los videojuegos
+Fue creado por Masayuki UemuraSalio en Japon en el año 1983 con el nombre de Family Computer (Famicom) y en Estados Unidos en el año 1985 con el nombre de Nintendo Entertainment System. Actualmente considerado como una de las consolas mas vendidas alrededor del mundo y que contribuyó a revitalizar de forma significativa la industria estadounidense de los videojuegos
