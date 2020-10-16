@@ -7,4 +7,6 @@ La pagina web fue creada para completa un proyecto de universas del tema: Introd
 
 ## Objetivo:
 
-El objetivo es dar una descripcion de la empresa de videojuegos japonesa Nintendo, con el fin de comunicar las siguientes caracteristicas: el origen de la empresa, las personas que revolucionaron la empresa, que productos sacaban, etc.  
+El objetivo es dar una descripcion de la empresa de videojuegos japonesa Nintendo, con el fin de comunicar las siguientes caracteristicas: el origen de la empresa, las personas que revolucionaron la empresa, que productos sacaron, entre otros.  
+
+![Logo]({{ site.baseurl }}/images/Logo.png)
