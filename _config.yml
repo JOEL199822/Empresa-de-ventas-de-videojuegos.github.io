@@ -5,7 +5,7 @@ theme: jekyll-theme-leaf
 # for a clean URL
 permalink: :slug
 
-social:
+footer-link:
   gmail: dereck20millamiranda@gmail.com
   github: Dereck-20miranda
 
