@@ -6,7 +6,7 @@ theme: jekyll-theme-leaf
 permalink: :slug
 
 footer-link:
-  gmail: dereck20millamiranda@gmail.com
+  email: dereck20millamiranda@gmail.com
   github: Dereck-20miranda
 
 plugins:
