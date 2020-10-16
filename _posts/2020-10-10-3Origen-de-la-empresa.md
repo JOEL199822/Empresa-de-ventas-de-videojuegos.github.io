@@ -7,7 +7,7 @@ La empresa fue creada por el primer presidente Fusajirō Yamauchi en 1889 bajo e
 
 ![Hanafuda]({{ site.baseurl }}/images/Hanafuda.png)
 
-Su objetivo era crear una baraja de cartas comerciables debido a la prohibicion de juegos de apuestas en Japon desde 1633. Aunque el término «Koppai» en su nombre original está asociado con «cartas», existe imprecisión en la etimología de «Nintendo». Por lo general se considera que es una palabra compuesta cuyo significado es «deja la suerte al cielo» o «deja la fortuna en manos del destino» —en alusión a la prohibición de los juegos de azar en Japón—,
+Su objetivo era crear una baraja de cartas comerciables debido a la prohibicion de juegos de apuestas en Japon desde 1633. Aunque el término «Koppai» en su nombre original está asociado con «cartas», existe imprecisión en la etimología de «Nintendo». Por lo general se considera que es una palabra compuesta cuyo significado es «deja la suerte al cielo» o «deja la fortuna en manos del destino» (en alusión a la prohibición de los juegos de azar en Japón).
 
 ![Logo original]({{ site.baseurl }}/images/Logo original.png)
 
