@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Origen de la empresa
+title: Origenes de la empresa
 ---
 
 La empresa fue creada por el primer presidente Fusajirō Yamauchi en 1889 bajo el nombre de Nintendo Koppai en Kioto, Japon, con el objetivo de producir y comerciar la baraja de cartas Hanafuda, cuya principal característica es que incorporan ilustraciones en vez de números.  
