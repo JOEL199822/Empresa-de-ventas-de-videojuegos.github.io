@@ -11,4 +11,4 @@ Creados en 1979 por Gunpei Yokoi que tubo la idea al ver un hombre aburrido con 
 
 ![Game & Whatch]({{ site.baseurl }}/images/Game & Whatch.png)
 
-Este juguete marco el inicio del principal mercado de la empresa en la actualidad.
+Este juguete marco el inicio del principal mercado de la empresa en la actualidad en los videojuegos.
