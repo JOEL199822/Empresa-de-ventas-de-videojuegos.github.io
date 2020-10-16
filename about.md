@@ -1,9 +1,9 @@
 ---
-title: Información sobre la pagina
+title: Información sobre el contenido de la pagina
 layout: page
 ---
 
-La pagina web fue creada para completa un proyecto de universas del tema: Introduccion a la ingenieria en Software. Analizando una empresa de libre expresion, luego publicar 5 caracteristicas principales de la empresa.
+Esta pagina web fue creada con el proposito de dar a conocer sobre un tema de videojuegos : Introduccion a la ingenieria en Software. Analizando una empresa de libre expresion, luego publicar 5 caracteristicas principales de la empresa.
 
 ## Objetivo:
 
