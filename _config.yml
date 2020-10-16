@@ -1,4 +1,4 @@
-title: Empresa de Videojuegos Nintendo 
+title: Empresa de ventas de Videojuegos 
 iconURL: assets/default-icon.png
 theme: jekyll-theme-leaf
 
@@ -6,8 +6,8 @@ theme: jekyll-theme-leaf
 permalink: :slug
 
 footer-link:
-  email: dereck20millamiranda@gmail.com
-  github: Dereck-20miranda
+  email: santosn1235@gmail.com
+  github: Joel199822
 
 plugins:
  - jekyll-feed
